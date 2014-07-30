@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Just anothe rrepository
+Hi Humans!
+
+Hi Ho Hu
